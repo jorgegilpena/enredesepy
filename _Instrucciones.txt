@@ -1,0 +1,14 @@
+OBJETIVO:
+- Leer de RSS noticias
+- Recorre los feeds
+- Recorre Noticias de FEED
+- Recorre palabras clave de keyword
+- Valora las noticias con más palabras clave y las incluye en fichero news
+
+AHORA:
+- NO FUNCIONA LEER STRING DE STRING - Noticias con palabras de Madrid o Coronavirus no coge a pesar de estar en Keywords
+
+PROXIMO PASO:
+- PONER NOTA A LAS NOTICIAS QUE MÄS REPITAN PALABRAS CLAVE
+- ORDENAR NOTICIAS POR PESO
+- PRESENTARLAS EN HTML
